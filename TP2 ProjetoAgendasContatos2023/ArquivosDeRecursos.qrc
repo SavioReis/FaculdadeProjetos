@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Arquivos">
+        <file>Arquivos/FUNDO.png</file>
+    </qresource>
+</RCC>
