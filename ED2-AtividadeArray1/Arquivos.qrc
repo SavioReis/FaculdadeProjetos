@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/Arquivos">
+        <file>Arquivos/crf-flamengo-3-1.png</file>
+        <file>Arquivos/Fundo.jpg</file>
+        <file>Arquivos/gear-solid.svg</file>
+        <file>Arquivos/trash-solid.svg</file>
+    </qresource>
+</RCC>
