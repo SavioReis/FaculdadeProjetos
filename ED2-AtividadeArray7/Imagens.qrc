@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagens/crf-flamengo-3-1.png</file>
+        <file>Imagens/Fundo.jpg</file>
+        <file>Imagens/gear-solid.svg</file>
+        <file>Imagens/magnifying-glass-solid.svg</file>
+        <file>Imagens/trash-solid.svg</file>
+    </qresource>
+</RCC>
